@@ -2,7 +2,7 @@
 
 Welcome to my VexCode backups! Fair warning, some of this code may be mildly inexplicable.
 
-##INVENTORY
+## INVENTORY
 
 * Clawbot Remote Basic V5 
   *  Allows for remote driving. No muss, no fuss.
