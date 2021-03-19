@@ -7,10 +7,12 @@ Welcome to my VexCode backups! Fair warning, some of this code may be mildly ine
 * Clawbot Remote Print V5 (**BORKED**)
   * __SHOULD__ print motor speeds to the brain screen, but has some weird error.
   * ___TO DO___
-  * [ ] Figure out the error
-  * [ ] Fix the code
-  * [ ] Figure out why the heck this program keeps throwing errors whenever `brain.screen.print()` is involved
-  * [ ] Commit edits to the main branch 
+  * [X] Figure out the error
+   * VexCode can't converd variable outputs directly into strings
+  * [X] Fix the code
+  * [X] Figure out why the heck this program keeps throwing errors whenever `brain.screen.print()` is involved
+   * `brain.screen.print` is fine, printing directly from things like `motor.velocity(PERCENT)` is illegal
+  * [X] Commit edits to the main branch 
 * Clawbot Remote Basic V5 
   *  Allows for remote driving. No muss, no fuss.
 *  V5 Claw For
