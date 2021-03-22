@@ -5,9 +5,10 @@ Welcome to my VexCode backups! Fair warning, some of this code may be mildly ine
 ## INVENTORY
 
 * Clawbot Remote Print V5 
-  *  Prints drive motor speeds to the brain screen, along with the drive mode (TONKDRIVE or FULLSEND).
+  *  Prints drive motor speeds to the brain screen, along with the drive mode (TONKDRIVE or FULLSEND). The drive mode also prints to the remote.
 * Clawbot Remote Basic V5 
   *  Allows for remote driving. No muss, no fuss.
+  	*  Added the functionality of printing the drivemode from Remote Print.
 *  V5 Claw For
 	*  Draws a hex-eight
 *  V5 Claw Motor-Sensor
