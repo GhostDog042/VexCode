@@ -15,3 +15,5 @@ Welcome to my VexCode backups! Fair warning, some of this code may be mildly ine
 	*  Basic motor-sensor setup for a V5 Clawbot. This is used as a template for most of the other files here to save time
 * V5 Claw Technical
 	*  Slalom! Zewm Zewm! 
+* ARMCOMP module
+	* compensates for the 7:1 gear ratio of the V5 Clawbot arm
