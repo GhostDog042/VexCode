@@ -1,0 +1,7 @@
+def armcomp(desang, mod = 7):
+    realang = desang * mod
+    return int(realang)
+#example code
+arm.spin_for(FORWARD, armcomp(90), DEGREES)
+wait(400, MSEC)
+arm.spin_for(FORWARD, -(armcomp(90)), DEGREES)
