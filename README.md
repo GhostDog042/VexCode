@@ -13,3 +13,5 @@ Welcome to my VexCode backups! Fair warning, some of this code may be mildly ine
 	*  Draws a hex-eight
 *  V5 Claw Motor-Sensor
 	*  Basic motor-sensor setup for a V5 Clawbot. This is used as a template for most of the other files here to save time
+* V5 Claw Technical
+	*  Slalom! Zewm Zewm! 
