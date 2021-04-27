@@ -17,5 +17,7 @@ Welcome to my VexCode backups! Fair warning, some of this code may be mildly ine
 	*  Slalom! Zewm Zewm! 
 * V5 ClawMazon Prime
 	*  Delivery program
+* V5 Comp Claw
+	* code for a modified competition clawbot
 * ARMCOMP module
 	* compensates for the 7:1 gear ratio of the V5 Clawbot arm
